@@ -6,6 +6,10 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
+class Change {
+    
+}
+
 class TaskOne {
 
     public static void main(String[] args) {
