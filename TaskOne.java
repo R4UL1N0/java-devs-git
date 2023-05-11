@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 class Change {
-    
+    public static void newFunction() {}
 }
 
 class TaskOne {
