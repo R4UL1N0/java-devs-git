@@ -10,6 +10,8 @@ class Change {
     public static void newFunction() {}
 
     public static void anotherOne() {}
+
+    public static void anotherTwo() {}
 }
 
 class TaskOne {
