@@ -8,6 +8,8 @@ import java.util.Set;
 
 class Change {
     public static void newFunction() {}
+
+    public static void anotherOne() {}
 }
 
 class TaskOne {
